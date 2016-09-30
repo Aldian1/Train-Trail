@@ -199,7 +199,7 @@ public class Character_Controller : MonoBehaviour {
     }
 
     //collision detection
-    void OnCollisionEnter2D(Collision2D col)
+  /*  void OnCollisionEnter2D(Collision2D col)
     {
         //Checks that the rigidbody on the character is disabled if they are hit by something that should knock them
 
@@ -209,4 +209,6 @@ public class Character_Controller : MonoBehaviour {
         }
         
     }
+    */
+
 }

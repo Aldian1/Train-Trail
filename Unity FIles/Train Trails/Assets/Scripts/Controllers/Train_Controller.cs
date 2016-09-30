@@ -4,7 +4,7 @@ using System.Collections;
 public class Train_Controller : MonoBehaviour {
 
 
-    private float currentspeed;
+    public float currentspeed;
 
     public float MaxSpeed;
     public float MinSpeed;
