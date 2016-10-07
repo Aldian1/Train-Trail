@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/EngineeringRoom.unity
+- path: Assets/TesterScene.unity
   isLoaded: 1
   isActive: 1
